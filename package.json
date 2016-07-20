@@ -1,5 +1,5 @@
 {
-  "name": "vantage",
+  "name": "nucleardreamer@vantage",
   "version": "1.7.1",
   "description": "CLI + SSH + REPL for Node",
   "main": "./lib/index.js",
